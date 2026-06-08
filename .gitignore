@@ -1,0 +1,3 @@
+# OS / editor noise only — static site files are tracked
+.DS_Store
+Thumbs.db
